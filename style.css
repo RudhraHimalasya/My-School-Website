@@ -1,0 +1,111 @@
+body {
+
+    text-align: center;
+}
+
+input {
+    background: pink;
+}
+
+h1 {
+    font-size: 100px;
+    font-family: 'Dancing Script', cursive;
+    color: aqua;
+
+}
+
+#home {
+
+    background-size: cover;
+
+    background-size: cover;
+    height: 700px;
+
+}
+
+#about {
+
+    background-image: url(https://png.pngtree.com/thumb_back/fw800/background/20190222/ourmid/pngtree-green-fresh-geometric-education-background-design-backgroundfresh-backgroundgeometric-backgroundeducationlearning-image_61172.jpg);
+
+
+}
+
+#para1 {
+    color: darkviolet;
+    font-size: 30px;
+    font-family: 'Amatic SC', cursive;
+}
+
+#r {
+
+    color: fuchsia;
+}
+
+#ghgh {
+    size: 10px;
+}
+
+#music {
+
+    background-image: url(https://thumbs.dreamstime.com/b/abstract-colorful-music-background-notes-music-party-background-abstract-colorful-music-background-notes-169973851.jpg);
+}
+
+#para2 {
+    color: beige;
+    font-size: 30px;
+    font-family: 'Amatic SC', cursive;
+    text-shadow: 2px 2px black;
+}
+
+#mkmk {
+    text-decoration: underline;
+    color: greenyellow;
+}
+
+.nav navbar-nav {
+    list-style: none;
+    position: fixed;
+    top: 10px;
+    right: 3px;
+    z-index: 10;
+    cursor: pointer;
+}
+
+.link {
+    font-size: 20px;
+    padding: 10px 10px;
+    color: pink;
+    border: 2px ridge;
+    background-color: #FFD9CE;
+}
+
+.link:hover {
+    background-color: #DB5461;
+}
+
+.video {
+    box-shadow: 10px 10px 5px black;
+    padding: 10px;
+    margin: 10px;
+    border: 5px solid;
+}
+
+.aboutschool {
+    height: 30px;
+    font-size: 20px;
+    letter-spacing: 10px;
+    background-color: purple;
+    color: white;
+    border-radius: 30px;
+}
+
+.homes {
+    
+    padding: 5px;
+
+    border: 10px double grey;
+}
+
+.homes images {
+    width: 100%;
+}
